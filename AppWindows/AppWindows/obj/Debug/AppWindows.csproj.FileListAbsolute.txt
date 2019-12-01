@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmMain.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmTinhToan.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmXoSo.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.Properties.Resources.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AppWindows\AppWindows\bin\Debug\AppWindows.exe.config
+C:\Users\PC\source\repos\AppWindows\AppWindows\bin\Debug\AppWindows.exe
+C:\Users\PC\source\repos\AppWindows\AppWindows\bin\Debug\AppWindows.pdb
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.exe
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.pdb
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmGameXepHinh.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmNotepad.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmTimKiem.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmClient.resources
+C:\Users\PC\source\repos\AppWindows\AppWindows\obj\Debug\AppWindows.frmServer.resources
